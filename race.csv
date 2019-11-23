@@ -1,0 +1,519 @@
+"covshAddress","perim","circuit","raceNumber","series","season","numQual","fetchit","isOval","multiDriver","fastestRaceSec"
+"gp.php?l=0&d=11&r=20151101&c=0","2897","St. Petersburg",1,"indycar",2015,4,TRUE,FALSE,FALSE,61.86
+"gp.php?l=0&d=11&r=20151102&c=0","4410","NOLA",2,"indycar",2015,4,TRUE,FALSE,FALSE,88.558
+"gp.php?l=0&d=11&r=20151103&c=0","3167","Long Beach",3,"indycar",2015,4,TRUE,FALSE,FALSE,68.096
+"gp.php?l=0&d=11&r=20151104&c=0","3701","Barber",4,"indycar",2015,4,TRUE,FALSE,FALSE,69.718
+"gp.php?l=0&d=11&r=20151105&c=0","3925","Indianapolis",5,"indycar",2015,4,TRUE,FALSE,FALSE,70.86
+"gp.php?l=0&d=11&r=20151106&c=0","4023","Indianapolis",6,"indycar",2015,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20151107&c=0","3782","Belle Isle",7,"indycar",2015,4,TRUE,FALSE,FALSE,79.872
+"gp.php?l=0&d=11&r=20151108&c=0","3782","Belle Isle",8,"indycar",2015,4,TRUE,FALSE,FALSE,77.913
+"gp.php?l=0&d=11&r=20151109&c=0","2342","Texas",9,"indycar",2015,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20151110&c=0","2824","Toronto",10,"indycar",2015,4,TRUE,FALSE,FALSE,60.065
+"gp.php?l=0&d=11&r=20151111&c=0","3219","Fontana",11,"indycar",2015,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20151112&c=0","1633","Milwaukee",12,"indycar",2015,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20151113&c=0","1439","Iowa",13,"indycar",2015,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20151114&c=0","3634","Mid-Ohio",14,"indycar",2015,4,TRUE,FALSE,FALSE,66.348
+"gp.php?l=0&d=11&r=20151115&c=0","4023","Pocono",15,"indycar",2015,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20151116&c=0","3838","Infineon",16,"indycar",2015,4,TRUE,FALSE,FALSE,79.491
+"gp.php?l=0&d=11&r=20161101&c=0","2897","St. Petersburg",1,"indycar",2016,4,TRUE,FALSE,FALSE,62.23
+"gp.php?l=0&d=11&r=20161102&c=0","1645","Phoenix-IR",2,"indycar",2016,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20161103&c=0","3167","Long Beach",3,"indycar",2016,4,TRUE,FALSE,FALSE,67.666
+"gp.php?l=0&d=11&r=20161104&c=0","3701","Barber",4,"indycar",2016,4,TRUE,FALSE,FALSE,68.453
+"gp.php?l=0&d=11&r=20161105&c=0","3925","Indianapolis",5,"indycar",2016,4,TRUE,FALSE,FALSE,69.553
+"gp.php?l=0&d=11&r=20161106&c=0","4023","Indianapolis",6,"indycar",2016,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20161107&c=0","3782","Belle Isle",7,"indycar",2016,4,TRUE,FALSE,FALSE,74.667
+"gp.php?l=0&d=11&r=20161108&c=0","3782","Belle Isle",8,"indycar",2016,4,TRUE,FALSE,FALSE,74.556
+"gp.php?l=0&d=11&r=20161109&c=0","6460","Road America",9,"indycar",2016,4,TRUE,FALSE,FALSE,104.119
+"gp.php?l=0&d=11&r=20161110&c=0","1439","Iowa",10,"indycar",2016,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20161111&c=0","2874","Toronto",11,"indycar",2016,4,TRUE,FALSE,FALSE,60.812
+"gp.php?l=0&d=11&r=20161112&c=0","3634","Mid-Ohio",12,"indycar",2016,4,TRUE,FALSE,FALSE,65.26
+"gp.php?l=0&d=11&r=20161113&c=0","4023","Pocono",13,"indycar",2016,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20161114&c=0","2342","Texas",14,"indycar",2016,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20161115&c=0","5423","Watkins Glen",15,"indycar",2016,4,TRUE,FALSE,FALSE,83.943
+"gp.php?l=0&d=11&r=20161116&c=0","3838","Infineon",16,"indycar",2016,4,TRUE,FALSE,FALSE,79.262
+"gp.php?l=0&d=11&r=20171101&c=0","2897","St. Petersburg",1,"indycar",2017,4,TRUE,FALSE,FALSE,62.078
+"gp.php?l=0&d=11&r=20171102&c=0","3167","Long Beach",2,"indycar",2017,4,TRUE,FALSE,FALSE,67.769
+"gp.php?l=0&d=11&r=20171103&c=0","3701","Barber",3,"indycar",2017,4,TRUE,FALSE,FALSE,68.276
+"gp.php?l=0&d=11&r=20171104&c=0","1645","Phoenix-IR",4,"indycar",2017,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20171105&c=0","3925","Indianapolis",5,"indycar",2017,4,TRUE,FALSE,FALSE,69.388
+"gp.php?l=0&d=11&r=20171106&c=0","4023","Indianapolis",6,"indycar",2017,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20171107&c=0","3782","Belle Isle",7,"indycar",2017,4,TRUE,FALSE,FALSE,74.206
+"gp.php?l=0&d=11&r=20171108&c=0","3782","Belle Isle",8,"indycar",2017,4,TRUE,FALSE,FALSE,74.638
+"gp.php?l=0&d=11&r=20171109&c=0","2317","Texas",9,"indycar",2017,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20171110&c=0","6460","Road America",10,"indycar",2017,4,TRUE,FALSE,FALSE,103.465
+"gp.php?l=0&d=11&r=20171111&c=0","1439","Iowa",11,"indycar",2017,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20171112&c=0","2874","Toronto",12,"indycar",2017,4,TRUE,FALSE,FALSE,60.235
+"gp.php?l=0&d=11&r=20171113&c=0","3634","Mid-Ohio",13,"indycar",2017,4,TRUE,FALSE,FALSE,65.969
+"gp.php?l=0&d=11&r=20171114&c=0","4023","Pocono",14,"indycar",2017,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20171115&c=0","2012","Gateway",15,"indycar",2017,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20171116&c=0","5423","Watkins Glen",16,"indycar",2017,4,TRUE,FALSE,FALSE,83.916
+"gp.php?l=0&d=11&r=20171117&c=0","3838","Infineon",17,"indycar",2017,4,TRUE,FALSE,FALSE,78.357
+"gp.php?l=0&d=11&r=20181101&c=0","2897","St. Petersburg",1,"indycar",2018,4,TRUE,FALSE,FALSE,61.724
+"gp.php?l=0&d=11&r=20181102&c=0","1645","Phoenix-IR",2,"indycar",2018,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20181103&c=0","3167","Long Beach",3,"indycar",2018,4,TRUE,FALSE,FALSE,67.551
+"gp.php?l=0&d=11&r=20181104&c=0","3701","Barber",4,"indycar",2018,4,TRUE,FALSE,FALSE,69.818
+"gp.php?l=0&d=11&r=20181105&c=0","3925","Indianapolis",5,"indycar",2018,4,TRUE,FALSE,FALSE,70.568
+"gp.php?l=0&d=11&r=20181106&c=0","4023","Indianapolis",6,"indycar",2018,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20181107&c=0","3782","Belle Isle",7,"indycar",2018,4,TRUE,FALSE,FALSE,75.804
+"gp.php?l=0&d=11&r=20181108&c=0","3782","Belle Isle",8,"indycar",2018,4,TRUE,FALSE,FALSE,75.059
+"gp.php?l=0&d=11&r=20181109&c=0","2317","Texas",9,"indycar",2018,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20181110&c=0","6460","Road America",10,"indycar",2018,4,TRUE,FALSE,FALSE,105.242
+"gp.php?l=0&d=11&r=20181111&c=0","1439","Iowa",11,"indycar",2018,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20181112&c=0","2874","Toronto",12,"indycar",2018,4,TRUE,FALSE,FALSE,59.714
+"gp.php?l=0&d=11&r=20181113&c=0","3634","Mid-Ohio",13,"indycar",2018,4,TRUE,FALSE,FALSE,66.726
+"gp.php?l=0&d=11&r=20181114&c=0","4023","Pocono",14,"indycar",2018,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20181115&c=0","2012","Gateway",15,"indycar",2018,4,FALSE,TRUE,FALSE,NA
+"gp.php?l=0&d=11&r=20181116&c=0","3161","Portland",16,"indycar",2018,4,TRUE,FALSE,FALSE,58.74
+"gp.php?l=0&d=11&r=20181117&c=0","3838","Infineon",17,"indycar",2018,4,TRUE,FALSE,FALSE,79.864
+"gp.php?l=0&d=303&r=20153031&c=0","5807","Suzuka",1,"fnippon",2015,3,TRUE,FALSE,FALSE,100.912
+"gp.php?l=0&d=303&r=20153032&c=0","3703","TI Aida",2,"fnippon",2015,3,TRUE,FALSE,FALSE,77.043
+"gp.php?l=0&d=303&r=20153033&c=0","4563","Fuji",3,"fnippon",2015,3,TRUE,FALSE,FALSE,85.917
+"gp.php?l=0&d=303&r=20153034&c=0","4801.379","Motegi",4,"fnippon",2015,3,TRUE,FALSE,FALSE,94.975
+"gp.php?l=0&d=303&r=20153035&c=0","4674","Autopolis",5,"fnippon",2015,3,TRUE,FALSE,FALSE,90.499
+"gp.php?l=0&d=303&r=20153036&c=0","3704.256","Sugo",6,"fnippon",2015,3,TRUE,FALSE,FALSE,67.472
+"gp.php?l=0&d=303&r=20153037&c=0","5807","Suzuka",7,"fnippon",2015,3,TRUE,FALSE,FALSE,115.401
+"gp.php?l=0&d=303&r=20153038&c=0","5807","Suzuka",8,"fnippon",2015,3,TRUE,FALSE,FALSE,115.809
+"gp.php?l=0&d=303&r=20163031&c=0","5807","Suzuka",1,"fnippon",2016,3,TRUE,FALSE,FALSE,101.167
+"gp.php?l=0&d=303&r=20163032&c=0","3703","TI Aida",2,"fnippon",2016,3,TRUE,FALSE,FALSE,130.96
+"gp.php?l=0&d=303&r=20163033&c=0","4563","Fuji",3,"fnippon",2016,3,TRUE,FALSE,FALSE,85.759
+"gp.php?l=0&d=303&r=20163034&c=0","4801.379","Motegi",4,"fnippon",2016,3,TRUE,FALSE,FALSE,96.444
+"gp.php?l=0&d=303&r=20163035&c=0","3703","TI Aida",5,"fnippon",2016,3,TRUE,FALSE,FALSE,77.353
+"gp.php?l=0&d=303&r=20163036&c=0","3703","TI Aida",6,"fnippon",2016,3,TRUE,FALSE,FALSE,77.232
+"gp.php?l=0&d=303&r=20163037&c=0","3704.256","Sugo",7,"fnippon",2016,3,TRUE,FALSE,FALSE,67.736
+"gp.php?l=0&d=303&r=20163038&c=0","5807","Suzuka",8,"fnippon",2016,3,TRUE,FALSE,FALSE,100.221
+"gp.php?l=0&d=303&r=20163039&c=0","5807","Suzuka",9,"fnippon",2016,3,TRUE,FALSE,FALSE,99.712
+"gp.php?l=0&d=303&r=20173031&c=0","5807","Suzuka",1,"fnippon",2017,3,TRUE,FALSE,FALSE,100.404
+"gp.php?l=0&d=303&r=20173032&c=0","3703","TI Aida",2,"fnippon",2017,3,TRUE,FALSE,FALSE,75.072
+"gp.php?l=0&d=303&r=20173033&c=0","3703","TI Aida",3,"fnippon",2017,3,TRUE,FALSE,FALSE,75.631
+"gp.php?l=0&d=303&r=20173034&c=0","4563","Fuji",4,"fnippon",2017,3,TRUE,FALSE,FALSE,85.581
+"gp.php?l=0&d=303&r=20173035&c=0","4801.379","Motegi",5,"fnippon",2017,3,TRUE,FALSE,FALSE,94.259
+"gp.php?l=0&d=303&r=20173036&c=0","4674","Autopolis",6,"fnippon",2017,3,TRUE,FALSE,FALSE,90.197
+"gp.php?l=0&d=303&r=20173037&c=0","3704.256","Sugo",7,"fnippon",2017,3,TRUE,FALSE,FALSE,67.697
+"gp.php?l=0&d=303&r=20173038&c=0","5807","Suzuka",8,"fnippon",2017,3,TRUE,FALSE,FALSE,NA
+"gp.php?l=0&d=303&r=20173039&c=0","5807","Suzuka",9,"fnippon",2017,3,TRUE,FALSE,FALSE,NA
+"gp.php?l=0&d=303&r=20183031&c=0","5807","Suzuka",1,"fnippon",2018,3,TRUE,FALSE,FALSE,102.235
+"gp.php?l=0&d=303&r=20183032&c=0","4674","Autopolis",2,"fnippon",2018,3,TRUE,FALSE,FALSE,NA
+"gp.php?l=0&d=303&r=20183033&c=0","3704.256","Sugo",3,"fnippon",2018,3,TRUE,FALSE,FALSE,66.3
+"gp.php?l=0&d=303&r=20183034&c=0","4563","Fuji",4,"fnippon",2018,3,TRUE,FALSE,FALSE,85.682
+"gp.php?l=0&d=303&r=20183035&c=0","4801.379","Motegi",5,"fnippon",2018,3,TRUE,FALSE,FALSE,94.758
+"gp.php?l=0&d=303&r=20183036&c=0","3703","TI Aida",6,"fnippon",2018,3,TRUE,FALSE,FALSE,89.507
+"gp.php?l=0&d=303&r=20183037&c=0","5807","Suzuka",7,"fnippon",2018,3,TRUE,FALSE,FALSE,101.205
+"gp.php?l=0&d=72&r=20157201&c=0","4574","Hockenheim",1,"dtm",2015,1,TRUE,FALSE,FALSE,94.751
+"gp.php?l=0&d=72&r=20157202&c=0","4574","Hockenheim",2,"dtm",2015,1,TRUE,FALSE,FALSE,95.766
+"gp.php?l=0&d=72&r=20157203&c=0","3478","Lausitzring",3,"dtm",2015,1,TRUE,FALSE,FALSE,78.599
+"gp.php?l=0&d=72&r=20157204&c=0","3478","Lausitzring",4,"dtm",2015,1,TRUE,FALSE,FALSE,78.504
+"gp.php?l=0&d=72&r=20157205&c=0","2300","Norisring",5,"dtm",2015,1,TRUE,FALSE,FALSE,49.297
+"gp.php?l=0&d=72&r=20157206&c=0","2300","Norisring",6,"dtm",2015,1,TRUE,FALSE,FALSE,48.178
+"gp.php?l=0&d=72&r=20157207&c=0","4307","Zandvoort",7,"dtm",2015,1,TRUE,FALSE,FALSE,93.462
+"gp.php?l=0&d=72&r=20157208&c=0","4307","Zandvoort",8,"dtm",2015,1,TRUE,FALSE,FALSE,93.635
+"gp.php?l=0&d=72&r=20157209&c=0","4326","Red Bull Ring",9,"dtm",2015,1,TRUE,FALSE,FALSE,85.632
+"gp.php?l=0&d=72&r=20157210&c=0","4326","Red Bull Ring",10,"dtm",2015,1,TRUE,FALSE,FALSE,101.547
+"gp.php?l=0&d=72&r=20157211&c=0","3931","Moscow",11,"dtm",2015,1,TRUE,FALSE,FALSE,89.891
+"gp.php?l=0&d=72&r=20157212&c=0","3931","Moscow",12,"dtm",2015,1,TRUE,FALSE,FALSE,89.87
+"gp.php?l=0&d=72&r=20157213&c=0","3696","Oschersleben",13,"dtm",2015,1,TRUE,FALSE,FALSE,82.245
+"gp.php?l=0&d=72&r=20157214&c=0","3696","Oschersleben",14,"dtm",2015,1,TRUE,FALSE,FALSE,82.388
+"gp.php?l=0&d=72&r=20157215&c=0","3629","Nurburgring",15,"dtm",2015,1,TRUE,FALSE,FALSE,83.502
+"gp.php?l=0&d=72&r=20157216&c=0","3629","Nurburgring",16,"dtm",2015,1,TRUE,FALSE,FALSE,83.417
+"gp.php?l=0&d=72&r=20157217&c=0","4574","Hockenheim",17,"dtm",2015,1,TRUE,FALSE,FALSE,94.364
+"gp.php?l=0&d=72&r=20157218&c=0","4574","Hockenheim",18,"dtm",2015,1,TRUE,FALSE,FALSE,94.086
+"gp.php?l=0&d=72&r=20167201&c=0","4574","Hockenheim",1,"dtm",2016,1,TRUE,FALSE,FALSE,95.465
+"gp.php?l=0&d=72&r=20167202&c=0","4574","Hockenheim",2,"dtm",2016,1,TRUE,FALSE,FALSE,95.335
+"gp.php?l=0&d=72&r=20167203&c=0","4326","Red Bull Ring",3,"dtm",2016,1,TRUE,FALSE,FALSE,83.442
+"gp.php?l=0&d=72&r=20167204&c=0","4326","Red Bull Ring",4,"dtm",2016,1,TRUE,FALSE,FALSE,83.446
+"gp.php?l=0&d=72&r=20167205&c=0","3478","Lausitzring",5,"dtm",2016,1,TRUE,FALSE,FALSE,78.149
+"gp.php?l=0&d=72&r=20167206&c=0","3478","Lausitzring",6,"dtm",2016,1,TRUE,FALSE,FALSE,77.84
+"gp.php?l=0&d=72&r=20167207&c=0","2300","Norisring",7,"dtm",2016,1,TRUE,FALSE,FALSE,48.746
+"gp.php?l=0&d=72&r=20167208&c=0","2300","Norisring",8,"dtm",2016,1,TRUE,FALSE,FALSE,48.328
+"gp.php?l=0&d=72&r=20167209&c=0","4307","Zandvoort",9,"dtm",2016,1,TRUE,FALSE,FALSE,92.841
+"gp.php?l=0&d=72&r=20167210&c=0","4307","Zandvoort",10,"dtm",2016,1,TRUE,FALSE,FALSE,93.087
+"gp.php?l=0&d=72&r=20167211&c=0","3931","Moscow",11,"dtm",2016,1,TRUE,FALSE,FALSE,108.22
+"gp.php?l=0&d=72&r=20167212&c=0","3931","Moscow",12,"dtm",2016,1,TRUE,FALSE,FALSE,90.269
+"gp.php?l=0&d=72&r=20167213&c=0","3629","Nurburgring",13,"dtm",2016,1,TRUE,FALSE,FALSE,84.468
+"gp.php?l=0&d=72&r=20167214&c=0","3629","Nurburgring",14,"dtm",2016,1,TRUE,FALSE,FALSE,84.103
+"gp.php?l=0&d=72&r=20167215&c=0","4381","Hungaroring",15,"dtm",2016,1,TRUE,FALSE,FALSE,96.959
+"gp.php?l=0&d=72&r=20167216&c=0","4381","Hungaroring",16,"dtm",2016,1,TRUE,FALSE,FALSE,96.538
+"gp.php?l=0&d=72&r=20167217&c=0","4574","Hockenheim",17,"dtm",2016,1,TRUE,FALSE,FALSE,94.5
+"gp.php?l=0&d=72&r=20167218&c=0","4574","Hockenheim",18,"dtm",2016,1,TRUE,FALSE,FALSE,94.659
+"gp.php?l=0&d=72&r=20177201&c=0","4574","Hockenheim",1,"dtm",2017,1,TRUE,FALSE,FALSE,93.201
+"gp.php?l=0&d=72&r=20177202&c=0","4574","Hockenheim",2,"dtm",2017,1,TRUE,FALSE,FALSE,93.614
+"gp.php?l=0&d=72&r=20177203&c=0","3478","Lausitzring",3,"dtm",2017,1,TRUE,FALSE,FALSE,77.343
+"gp.php?l=0&d=72&r=20177204&c=0","3478","Lausitzring",4,"dtm",2017,1,TRUE,FALSE,FALSE,77.098
+"gp.php?l=0&d=72&r=20177205&c=0","4381","Hungaroring",5,"dtm",2017,1,TRUE,FALSE,FALSE,97.101
+"gp.php?l=0&d=72&r=20177206&c=0","4381","Hungaroring",6,"dtm",2017,1,TRUE,FALSE,FALSE,96.725
+"gp.php?l=0&d=72&r=20177207&c=0","2300","Norisring",7,"dtm",2017,1,TRUE,FALSE,FALSE,48.345
+"gp.php?l=0&d=72&r=20177208&c=0","2300","Norisring",8,"dtm",2017,1,TRUE,FALSE,FALSE,47.846
+"gp.php?l=0&d=72&r=20177209&c=0","3931","Moscow",9,"dtm",2017,1,TRUE,FALSE,FALSE,89.573
+"gp.php?l=0&d=72&r=20177210&c=0","3931","Moscow",10,"dtm",2017,1,TRUE,FALSE,FALSE,88.436
+"gp.php?l=0&d=72&r=20177211&c=0","4307","Zandvoort",11,"dtm",2017,1,TRUE,FALSE,FALSE,90.16
+"gp.php?l=0&d=72&r=20177212&c=0","4307","Zandvoort",12,"dtm",2017,1,TRUE,FALSE,FALSE,89.168
+"gp.php?l=0&d=72&r=20177213&c=0","3629","Nurburgring",13,"dtm",2017,1,TRUE,FALSE,FALSE,91.42
+"gp.php?l=0&d=72&r=20177214&c=0","3629","Nurburgring",14,"dtm",2017,1,TRUE,FALSE,FALSE,82.308
+"gp.php?l=0&d=72&r=20177215&c=0","4318","Red Bull Ring",15,"dtm",2017,1,TRUE,FALSE,FALSE,83.742
+"gp.php?l=0&d=72&r=20177216&c=0","4318","Red Bull Ring",16,"dtm",2017,1,TRUE,FALSE,FALSE,83.474
+"gp.php?l=0&d=72&r=20177217&c=0","4574","Hockenheim",17,"dtm",2017,1,TRUE,FALSE,FALSE,92.819
+"gp.php?l=0&d=72&r=20177218&c=0","4574","Hockenheim",18,"dtm",2017,1,TRUE,FALSE,FALSE,92.456
+"gp.php?l=0&d=72&r=20187201&c=0","4574","Hockenheim",1,"dtm",2018,1,TRUE,FALSE,FALSE,94.181
+"gp.php?l=0&d=72&r=20187202&c=0","4574","Hockenheim",2,"dtm",2018,1,TRUE,FALSE,FALSE,94.069
+"gp.php?l=0&d=72&r=20187203&c=0","4570","Lausitzring",3,"dtm",2018,1,TRUE,FALSE,FALSE,99.699
+"gp.php?l=0&d=72&r=20187204&c=0","4570","Lausitzring",4,"dtm",2018,1,TRUE,FALSE,FALSE,99.395
+"gp.php?l=0&d=72&r=20187205&c=0","4381","Hungaroring",5,"dtm",2018,1,TRUE,FALSE,FALSE,98.812
+"gp.php?l=0&d=72&r=20187206&c=0","4381","Hungaroring",6,"dtm",2018,1,TRUE,FALSE,FALSE,98.417
+"gp.php?l=0&d=72&r=20187207&c=0","2300","Norisring",7,"dtm",2018,1,TRUE,FALSE,FALSE,48.307
+"gp.php?l=0&d=72&r=20187208&c=0","2300","Norisring",8,"dtm",2018,1,TRUE,FALSE,FALSE,48.311
+"gp.php?l=0&d=72&r=20187209&c=0","4307","Zandvoort",9,"dtm",2018,1,TRUE,FALSE,FALSE,92.317
+"gp.php?l=0&d=72&r=20187210&c=0","4307","Zandvoort",10,"dtm",2018,1,TRUE,FALSE,FALSE,91.805
+"gp.php?l=0&d=72&r=20187211&c=0","3916","Brands Hatch",11,"dtm",2018,1,TRUE,FALSE,FALSE,80.195
+"gp.php?l=0&d=72&r=20187212&c=0","3916","Brands Hatch",12,"dtm",2018,1,TRUE,FALSE,FALSE,79.943
+"gp.php?l=0&d=72&r=20187213&c=0","4226","Misano",13,"dtm",2018,1,TRUE,FALSE,FALSE,90.288
+"gp.php?l=0&d=72&r=20187214&c=0","4226","Misano",14,"dtm",2018,1,TRUE,FALSE,FALSE,102.023
+"gp.php?l=0&d=72&r=20187215&c=0","3629","Nurburgring",15,"dtm",2018,1,TRUE,FALSE,FALSE,83.768
+"gp.php?l=0&d=72&r=20187216&c=0","3629","Nurburgring",16,"dtm",2018,1,TRUE,FALSE,FALSE,83.875
+"gp.php?l=0&d=72&r=20187217&c=0","4318","Red Bull Ring",17,"dtm",2018,1,TRUE,FALSE,FALSE,84.493
+"gp.php?l=0&d=72&r=20187218&c=0","4318","Red Bull Ring",18,"dtm",2018,1,TRUE,FALSE,FALSE,84.907
+"gp.php?l=0&d=72&r=20187219&c=0","4574","Hockenheim",19,"dtm",2018,1,TRUE,FALSE,FALSE,94.743
+"gp.php?l=0&d=72&r=20187220&c=0","4574","Hockenheim",20,"dtm",2018,1,TRUE,FALSE,FALSE,94.512
+"gp.php?l=0&d=630&r=20156091&c=0","5901","Silverstone",1,"wec",2015,2,TRUE,FALSE,TRUE,100.836
+"gp.php?l=0&d=630&r=20156092&c=0","7003.9","Spa-Francorchamps",2,"wec",2015,2,TRUE,FALSE,TRUE,117.972
+"gp.php?l=0&d=630&r=20156093&c=0","13629","Le Mans-Sarthe",3,"wec",2015,2,TRUE,FALSE,TRUE,197.475
+"gp.php?l=0&d=630&r=20156094&c=0","5137","Nurburgring",4,"wec",2015,2,TRUE,FALSE,TRUE,97.955
+"gp.php?l=0&d=630&r=20156095&c=0","5513","Americas",5,"wec",2015,2,TRUE,FALSE,TRUE,107.412
+"gp.php?l=0&d=630&r=20156096&c=0","4563","Fuji",6,"wec",2015,2,TRUE,FALSE,TRUE,85.621
+"gp.php?l=0&d=630&r=20156097&c=0","5451","Shanghai",7,"wec",2015,2,TRUE,FALSE,TRUE,106.685
+"gp.php?l=0&d=630&r=20156098&c=0","5412","Bahrain",8,"wec",2015,2,TRUE,FALSE,TRUE,101.893
+"gp.php?l=0&d=630&r=20166091&c=0","5901","Silverstone",1,"wec",2016,2,TRUE,FALSE,TRUE,100.303
+"gp.php?l=0&d=630&r=20166092&c=0","7003.9","Spa-Francorchamps",2,"wec",2016,2,TRUE,FALSE,TRUE,118.431
+"gp.php?l=0&d=630&r=20166093&c=0","13629","Le Mans-Sarthe",3,"wec",2016,2,TRUE,FALSE,TRUE,201.445
+"gp.php?l=0&d=630&r=20166094&c=0","5148","Nurburgring",4,"wec",2016,2,TRUE,FALSE,TRUE,100.325
+"gp.php?l=0&d=630&r=20166095&c=0","4304","Mexico City",5,"wec",2016,2,TRUE,FALSE,TRUE,85.88
+"gp.php?l=0&d=630&r=20166096&c=0","5513","Americas",6,"wec",2016,2,TRUE,FALSE,TRUE,107.052
+"gp.php?l=0&d=630&r=20166097&c=0","4563","Fuji",7,"wec",2016,2,TRUE,FALSE,TRUE,84.645
+"gp.php?l=0&d=630&r=20166098&c=0","5451","Shanghai",8,"wec",2016,2,TRUE,FALSE,TRUE,105.935
+"gp.php?l=0&d=630&r=20166099&c=0","5412","Bahrain",9,"wec",2016,2,TRUE,FALSE,TRUE,101.511
+"gp.php?l=0&d=630&r=20176091&c=0","5901","Silverstone",1,"wec",2017,2,TRUE,FALSE,TRUE,99.656
+"gp.php?l=0&d=630&r=20176092&c=0","7003.9","Spa-Francorchamps",2,"wec",2017,2,TRUE,FALSE,TRUE,117.638
+"gp.php?l=0&d=630&r=20176093&c=0","13629","Le Mans-Sarthe",3,"wec",2017,2,TRUE,FALSE,TRUE,198.604
+"gp.php?l=0&d=630&r=20176094&c=0","5148","Nurburgring",4,"wec",2017,2,TRUE,FALSE,TRUE,100.633
+"gp.php?l=0&d=630&r=20176095&c=0","4304","Mexico City",5,"wec",2017,2,TRUE,FALSE,TRUE,85.73
+"gp.php?l=0&d=630&r=20176096&c=0","5513","Americas",6,"wec",2017,2,TRUE,FALSE,TRUE,107.149
+"gp.php?l=0&d=630&r=20176097&c=0","4563","Fuji",7,"wec",2017,2,TRUE,FALSE,TRUE,97.702
+"gp.php?l=0&d=630&r=20176098&c=0","5451","Shanghai",8,"wec",2017,2,TRUE,FALSE,TRUE,105.892
+"gp.php?l=0&d=630&r=20176099&c=0","5412","Bahrain",9,"wec",2017,2,TRUE,FALSE,TRUE,102.862
+"gp.php?l=0&d=6020&r=20176081&c=0","5793","Monza",1,"blancpain",2017,3,TRUE,FALSE,TRUE,109.375
+"gp.php?l=0&d=6020&r=20176082&c=0","5901","Silverstone",2,"blancpain",2017,3,TRUE,FALSE,TRUE,120.906
+"gp.php?l=0&d=6020&r=20176083&c=0","5791","Paul Ricard",3,"blancpain",2017,3,TRUE,FALSE,TRUE,117.921
+"gp.php?l=0&d=6020&r=20176084&c=0","7004","Spa-Francorchamps",4,"blancpain",2017,3,TRUE,FALSE,TRUE,139.756
+"gp.php?l=0&d=6020&r=20176085&c=0","4655","Catalunya",5,"blancpain",2017,3,TRUE,FALSE,TRUE,108.997
+"gp.php?l=0&d=623&r=20186131&c=0","5729","Daytona",1,"imsa",2018,1,TRUE,FALSE,TRUE,97.475
+"gp.php?l=0&d=623&r=20186132&c=0","6019","Sebring",2,"imsa",2018,1,TRUE,FALSE,TRUE,109.002
+"gp.php?l=0&d=623&r=20186133&c=0","3167","Long Beach",3,"imsa",2018,1,TRUE,FALSE,TRUE,73.492
+"gp.php?l=0&d=623&r=20186134&c=0","3634","Mid-Ohio",4,"imsa",2018,1,TRUE,FALSE,TRUE,73.832
+"gp.php?l=0&d=623&r=20186135&c=0","3782","Belle Isle",5,"imsa",2018,1,TRUE,FALSE,TRUE,81.637
+"gp.php?l=0&d=623&r=20186136&c=0","5472","Watkins Glen",6,"imsa",2018,1,TRUE,FALSE,TRUE,93.424
+"gp.php?l=0&d=623&r=20186137&c=0","3957","Mosport",7,"imsa",2018,1,TRUE,FALSE,TRUE,67.259
+"gp.php?l=0&d=623&r=20186138&c=0","2372","Lime Rock",8,"imsa",2018,1,TRUE,FALSE,TRUE,50.834
+"gp.php?l=0&d=623&r=20186139&c=0","6515","Road America",9,"imsa",2018,1,TRUE,FALSE,TRUE,112.802
+"gp.php?l=0&d=623&r=20186140&c=0","5263","Virginia",10,"imsa",2018,1,TRUE,FALSE,TRUE,102.6
+"gp.php?l=0&d=623&r=20186141&c=0","3602","Laguna Seca",11,"imsa",2018,1,TRUE,FALSE,TRUE,76.914
+"gp.php?l=0&d=623&r=20186142&c=0","4088","Road Atlanta",12,"imsa",2018,1,TRUE,FALSE,TRUE,71.49
+"gp.php?l=0&d=623&r=20176131&c=0","5729","Daytona",1,"imsa",2017,1,TRUE,FALSE,TRUE,96.269
+"gp.php?l=0&d=623&r=20176132&c=0","6019","Sebring",2,"imsa",2017,1,TRUE,FALSE,TRUE,109.629
+"gp.php?l=0&d=623&r=20176133&c=0","3167","Long Beach",3,"imsa",2017,1,TRUE,FALSE,TRUE,74.367
+"gp.php?l=0&d=623&r=20176134&c=0","5472","Americas",4,"imsa",2017,1,TRUE,FALSE,TRUE,117.198
+"gp.php?l=0&d=623&r=20176135&c=0","3782","Belle Isle",5,"imsa",2017,1,TRUE,FALSE,TRUE,83.107
+"gp.php?l=0&d=623&r=20176136&c=0","5472","Watkins Glen",6,"imsa",2017,1,TRUE,FALSE,TRUE,93.314
+"gp.php?l=0&d=623&r=20176137&c=0","3957","Mosport",7,"imsa",2017,1,TRUE,FALSE,TRUE,68.915
+"gp.php?l=0&d=623&r=20176138&c=0","2372","Lime Rock",8,"imsa",2017,1,TRUE,FALSE,TRUE,50.78
+"gp.php?l=0&d=623&r=20176139&c=0","6515","Road America",9,"imsa",2017,1,TRUE,FALSE,TRUE,114.095
+"gp.php?l=0&d=623&r=20176140&c=0","5263","Virginia",10,"imsa",2017,1,TRUE,FALSE,TRUE,101.253
+"gp.php?l=0&d=623&r=20176141&c=0","3602","Laguna Seca",11,"imsa",2017,1,TRUE,FALSE,TRUE,77.921
+"gp.php?l=0&d=623&r=20176142&c=0","4088","Road Atlanta",12,"imsa",2017,1,TRUE,FALSE,TRUE,72.563
+"gp.php?l=0&d=623&r=20166131&c=0","5729","Daytona",1,"imsa",2016,1,TRUE,FALSE,TRUE,99.192
+"gp.php?l=0&d=623&r=20166132&c=0","6019","Sebring",2,"imsa",2016,1,TRUE,FALSE,TRUE,112.397
+"gp.php?l=0&d=623&r=20166133&c=0","3167","Long Beach",3,"imsa",2016,1,TRUE,FALSE,TRUE,75.279
+"gp.php?l=0&d=623&r=20166134&c=0","3602","Laguna Seca",4,"imsa",2016,1,TRUE,FALSE,TRUE,79.206
+"gp.php?l=0&d=623&r=20166135&c=0","3602","Laguna Seca",5,"imsa",2016,1,TRUE,FALSE,TRUE,80.38
+"gp.php?l=0&d=623&r=20166136&c=0","3782","Belle Isle",6,"imsa",2016,1,TRUE,FALSE,TRUE,83.138
+"gp.php?l=0&d=623&r=20166137&c=0","5472","Watkins Glen",7,"imsa",2016,1,TRUE,FALSE,TRUE,94.515
+"gp.php?l=0&d=623&r=20166138&c=0","3957","Mosport",8,"imsa",2016,1,TRUE,FALSE,TRUE,70.404
+"gp.php?l=0&d=623&r=20166139&c=0","2372","Lime Rock",9,"imsa",2016,1,TRUE,FALSE,TRUE,49.25
+"gp.php?l=0&d=623&r=20166140&c=0","6515","Road America",10,"imsa",2016,1,TRUE,FALSE,TRUE,115.458
+"gp.php?l=0&d=623&r=20166141&c=0","5263","Virginia",11,"imsa",2016,1,TRUE,FALSE,TRUE,102.603
+"gp.php?l=0&d=623&r=20166142&c=0","5472","Americas",12,"imsa",2016,1,TRUE,FALSE,TRUE,119.721
+"gp.php?l=0&d=623&r=20166143&c=0","4088","Road Atlanta",13,"imsa",2016,1,TRUE,FALSE,TRUE,73.478
+"gp.php?l=0&d=623&r=20156131&c=0","5729","Daytona",1,"imsa",2015,1,TRUE,FALSE,TRUE,99.576
+"gp.php?l=0&d=623&r=20156132&c=0","6019","Sebring",2,"imsa",2015,1,TRUE,FALSE,TRUE,112.261
+"gp.php?l=0&d=623&r=20156133&c=0","3167","Long Beach",3,"imsa",2015,1,TRUE,FALSE,TRUE,75.682
+"gp.php?l=0&d=623&r=20156134&c=0","3602","Laguna Seca",4,"imsa",2015,1,TRUE,FALSE,TRUE,79.303
+"gp.php?l=0&d=623&r=20156135&c=0","3782","Belle Isle",5,"imsa",2015,1,TRUE,FALSE,TRUE,84.106
+"gp.php?l=0&d=623&r=20156136&c=0","5472","Watkins Glen",6,"imsa",2015,1,TRUE,FALSE,TRUE,99.294
+"gp.php?l=0&d=623&r=20156137&c=0","3957","Mosport",7,"imsa",2015,1,TRUE,FALSE,TRUE,70.2
+"gp.php?l=0&d=623&r=20156138&c=0","2372","Lime Rock",8,"imsa",2015,1,TRUE,FALSE,TRUE,49.091
+"gp.php?l=0&d=623&r=20156139&c=0","6515","Road America",9,"imsa",2015,1,TRUE,FALSE,TRUE,117.464
+"gp.php?l=0&d=623&r=20156140&c=0","5263","Virginia",10,"imsa",2015,1,TRUE,FALSE,TRUE,102.457
+"gp.php?l=0&d=623&r=20156141&c=0","5472","Americas",11,"imsa",2015,1,TRUE,FALSE,TRUE,118.616
+"gp.php?l=0&d=623&r=20156142&c=0","4088","Road Atlanta",12,"imsa",2015,1,TRUE,FALSE,TRUE,88.42
+"gp.php?l=0&d=80&r=20188001&c=0","5380","Losail",1,"motogp",2018,2,TRUE,FALSE,FALSE,115.242
+"gp.php?l=0&d=80&r=20188002&c=0","4806","Termas de Rio Hondo",2,"motogp",2018,2,TRUE,FALSE,FALSE,99.902
+"gp.php?l=0&d=80&r=20188003&c=0","5513","Americas",3,"motogp",2018,2,TRUE,FALSE,FALSE,124.605
+"gp.php?l=0&d=80&r=20188004&c=0","4423","Jerez",4,"motogp",2018,2,TRUE,FALSE,FALSE,99.159
+"gp.php?l=0&d=80&r=20188005&c=0","4185","Le Mans",5,"motogp",2018,2,TRUE,FALSE,FALSE,92.312
+"gp.php?l=0&d=80&r=20188006&c=0","5245","Mugello",6,"motogp",2018,2,TRUE,FALSE,FALSE,108.001
+"gp.php?l=0&d=80&r=20188007&c=0","4627","Catalunya",7,"motogp",2018,2,TRUE,FALSE,FALSE,100.021
+"gp.php?l=0&d=80&r=20188008&c=0","4542","Assen",8,"motogp",2018,2,TRUE,FALSE,FALSE,94.113
+"gp.php?l=0&d=80&r=20188009&c=0","3671","Sachsenring",9,"motogp",2018,2,TRUE,FALSE,FALSE,81.643
+"gp.php?l=0&d=80&r=20188010&c=0","5403","Brno",10,"motogp",2018,2,TRUE,FALSE,FALSE,116.64
+"gp.php?l=0&d=80&r=20188011&c=0","4318","Red Bull Ring",11,"motogp",2018,2,TRUE,FALSE,FALSE,84.277
+"gp.php?l=0&d=80&r=20188012&c=0","5900","Silverstone",12,"motogp",2018,2,TRUE,FALSE,FALSE,NA
+"gp.php?l=0&d=80&r=20188013&c=0","4226","Misano",13,"motogp",2018,2,TRUE,FALSE,FALSE,92.678
+"gp.php?l=0&d=80&r=20188014&c=0","5077","Motorland",14,"motogp",2018,2,TRUE,FALSE,FALSE,108.385
+"gp.php?l=0&d=80&r=20188015&c=0","4554","Buriram",15,"motogp",2018,2,TRUE,FALSE,FALSE,91.471
+"gp.php?l=0&d=80&r=20188016&c=0","4801","Motegi",16,"motogp",2018,2,TRUE,FALSE,FALSE,105.646
+"gp.php?l=0&d=80&r=20188017&c=0","4448","Phillip Island",17,"motogp",2018,2,TRUE,FALSE,FALSE,89.632
+"gp.php?l=0&d=80&r=20188018&c=0","5543","Sepang",18,"motogp",2018,2,TRUE,FALSE,FALSE,120.762
+"gp.php?l=0&d=80&r=20188019&c=0","4005","Valencia",19,"motogp",2018,2,TRUE,FALSE,FALSE,101.863
+"gp.php?l=0&d=80&r=20178001&c=0","5380","Losail",1,"motogp",2017,2,TRUE,FALSE,FALSE,115.99
+"gp.php?l=0&d=80&r=20178002&c=0","4806","Termas de Rio Hondo",2,"motogp",2017,2,TRUE,FALSE,FALSE,99.694
+"gp.php?l=0&d=80&r=20178003&c=0","5513","Americas",3,"motogp",2017,2,TRUE,FALSE,FALSE,124.899
+"gp.php?l=0&d=80&r=20178004&c=0","4423","Jerez",4,"motogp",2017,2,TRUE,FALSE,FALSE,100.243
+"gp.php?l=0&d=80&r=20178005&c=0","4185","Le Mans",5,"motogp",2017,2,TRUE,FALSE,FALSE,92.309
+"gp.php?l=0&d=80&r=20178006&c=0","5245","Mugello",6,"motogp",2017,2,TRUE,FALSE,FALSE,107.643
+"gp.php?l=0&d=80&r=20178007&c=0","4655","Catalunya",7,"motogp",2017,2,TRUE,FALSE,FALSE,105.969
+"gp.php?l=0&d=80&r=20178008&c=0","4542","Assen",8,"motogp",2017,2,TRUE,FALSE,FALSE,94.617
+"gp.php?l=0&d=80&r=20178009&c=0","3671","Sachsenring",9,"motogp",2017,2,TRUE,FALSE,FALSE,81.442
+"gp.php?l=0&d=80&r=20178010&c=0","5403","Brno",10,"motogp",2017,2,TRUE,FALSE,FALSE,117.052
+"gp.php?l=0&d=80&r=20178011&c=0","4318","Red Bull Ring",11,"motogp",2017,2,TRUE,FALSE,FALSE,84.312
+"gp.php?l=0&d=80&r=20178012&c=0","5900","Silverstone",12,"motogp",2017,2,TRUE,FALSE,FALSE,121.56
+"gp.php?l=0&d=80&r=20178013&c=0","4226","Misano",13,"motogp",2017,2,TRUE,FALSE,FALSE,107.069
+"gp.php?l=0&d=80&r=20178014&c=0","5077","Motorland",14,"motogp",2017,2,TRUE,FALSE,FALSE,109.14
+"gp.php?l=0&d=80&r=20178015&c=0","4801","Motegi",15,"motogp",2017,2,TRUE,FALSE,FALSE,116.568
+"gp.php?l=0&d=80&r=20178016&c=0","4448","Phillip Island",16,"motogp",2017,2,TRUE,FALSE,FALSE,89.572
+"gp.php?l=0&d=80&r=20178017&c=0","5543","Sepang",17,"motogp",2017,2,TRUE,FALSE,FALSE,133.084
+"gp.php?l=0&d=80&r=20178018&c=0","4005","Valencia",18,"motogp",2017,2,TRUE,FALSE,FALSE,91.576
+"gp.php?l=0&d=80&r=20168001&c=0","5380","Losail",1,"motogp",2016,2,TRUE,FALSE,FALSE,114.927
+"gp.php?l=0&d=80&r=20168002&c=0","4806","Termas de Rio Hondo",2,"motogp",2016,2,TRUE,FALSE,FALSE,100.243
+"gp.php?l=0&d=80&r=20168003&c=0","5513","Americas",3,"motogp",2016,2,TRUE,FALSE,FALSE,124.682
+"gp.php?l=0&d=80&r=20168004&c=0","4423","Jerez",4,"motogp",2016,2,TRUE,FALSE,FALSE,100.09
+"gp.php?l=0&d=80&r=20168005&c=0","4185","Le Mans",5,"motogp",2016,2,TRUE,FALSE,FALSE,93.293
+"gp.php?l=0&d=80&r=20168006&c=0","5245","Mugello",6,"motogp",2016,2,TRUE,FALSE,FALSE,107.687
+"gp.php?l=0&d=80&r=20168007&c=0","4655","Catalunya",7,"motogp",2016,2,TRUE,FALSE,FALSE,105.971
+"gp.php?l=0&d=80&r=20168008&c=0","4542","Assen",8,"motogp",2016,2,TRUE,FALSE,FALSE,108.339
+"gp.php?l=0&d=80&r=20168009&c=0","3671","Sachsenring",9,"motogp",2016,2,TRUE,FALSE,FALSE,85.019
+"gp.php?l=0&d=80&r=20168010&c=0","4318","Red Bull Ring",10,"motogp",2016,2,TRUE,FALSE,FALSE,84.561
+"gp.php?l=0&d=80&r=20168011&c=0","5403","Brno",11,"motogp",2016,2,TRUE,FALSE,FALSE,128.216
+"gp.php?l=0&d=80&r=20168012&c=0","5900","Silverstone",12,"motogp",2016,2,TRUE,FALSE,FALSE,122.339
+"gp.php?l=0&d=80&r=20168013&c=0","4226","Misano",13,"motogp",2016,2,TRUE,FALSE,FALSE,92.979
+"gp.php?l=0&d=80&r=20168014&c=0","5078","Motorland",14,"motogp",2016,2,TRUE,FALSE,FALSE,108.694
+"gp.php?l=0&d=80&r=20168015&c=0","4801","Motegi",15,"motogp",2016,2,TRUE,FALSE,FALSE,105.576
+"gp.php?l=0&d=80&r=20168016&c=0","4448","Phillip Island",16,"motogp",2016,2,TRUE,FALSE,FALSE,89.494
+"gp.php?l=0&d=80&r=20168017&c=0","5543","Sepang",17,"motogp",2016,2,TRUE,FALSE,FALSE,131.95
+"gp.php?l=0&d=80&r=20168018&c=0","4005","Valencia",18,"motogp",2016,2,TRUE,FALSE,FALSE,91.171
+"gp.php?l=0&d=80&r=20158001&c=0","5380","Losail",1,"motogp",2015,2,TRUE,FALSE,FALSE,115.267
+"gp.php?l=0&d=80&r=20158002&c=0","5513","Americas",2,"motogp",2015,2,TRUE,FALSE,FALSE,124.251
+"gp.php?l=0&d=80&r=20158003&c=0","4806","Termas de Rio Hondo",3,"motogp",2015,2,TRUE,FALSE,FALSE,99.019
+"gp.php?l=0&d=80&r=20158004&c=0","4423","Jerez",4,"motogp",2015,2,TRUE,FALSE,FALSE,98.735
+"gp.php?l=0&d=80&r=20158005&c=0","4185","Le Mans",5,"motogp",2015,2,TRUE,FALSE,FALSE,92.879
+"gp.php?l=0&d=80&r=20158006&c=0","5245","Mugello",6,"motogp",2015,2,TRUE,FALSE,FALSE,107.654
+"gp.php?l=0&d=80&r=20158007&c=0","4727","Catalunya",7,"motogp",2015,2,TRUE,FALSE,FALSE,102.219
+"gp.php?l=0&d=80&r=20158008&c=0","4542","Assen",8,"motogp",2015,2,TRUE,FALSE,FALSE,93.617
+"gp.php?l=0&d=80&r=20158009&c=0","3671","Sachsenring",9,"motogp",2015,2,TRUE,FALSE,FALSE,81.53
+"gp.php?l=0&d=80&r=20158010&c=0","4170","Indianapolis",10,"motogp",2015,2,TRUE,FALSE,FALSE,92.625
+"gp.php?l=0&d=80&r=20158011&c=0","5403","Brno",11,"motogp",2015,2,TRUE,FALSE,FALSE,116.048
+"gp.php?l=0&d=80&r=20158012&c=0","5900","Silverstone",12,"motogp",2015,2,TRUE,FALSE,FALSE,136.486
+"gp.php?l=0&d=80&r=20158013&c=0","4226","Misano",13,"motogp",2015,2,TRUE,FALSE,FALSE,93.273
+"gp.php?l=0&d=80&r=20158014&c=0","5078","Motorland",14,"motogp",2015,2,TRUE,FALSE,FALSE,108.12
+"gp.php?l=0&d=80&r=20158015&c=0","4801","Motegi",15,"motogp",2015,2,TRUE,FALSE,FALSE,114.867
+"gp.php?l=0&d=80&r=20158016&c=0","4448","Phillip Island",16,"motogp",2015,2,TRUE,FALSE,FALSE,89.28
+"gp.php?l=0&d=80&r=20158017&c=0","5543","Sepang",17,"motogp",2015,2,TRUE,FALSE,FALSE,120.606
+"gp.php?l=0&d=80&r=20158018&c=0","4005","Valencia",18,"motogp",2015,2,TRUE,FALSE,FALSE,91.367
+"gp.php?l=0&d=81&r=20188101&c=0","4445","Phillip Island",1,"worldsuperbike",2018,2,TRUE,FALSE,FALSE,90.971
+"gp.php?l=0&d=81&r=20188102&c=0","4445","Phillip Island",2,"worldsuperbike",2018,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188103&c=0","4554","Buriram",3,"worldsuperbike",2018,2,TRUE,FALSE,FALSE,93.714
+"gp.php?l=0&d=81&r=20188104&c=0","4554","Buriram",4,"worldsuperbike",2018,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188105&c=0","5077","Motorland",5,"worldsuperbike",2018,2,TRUE,FALSE,FALSE,110.663
+"gp.php?l=0&d=81&r=20188106&c=0","5077","Motorland",6,"worldsuperbike",2018,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188107&c=0","4542","Assen",7,"worldsuperbike",2018,2,TRUE,FALSE,FALSE,95.248
+"gp.php?l=0&d=81&r=20188108&c=0","4542","Assen",8,"worldsuperbike",2018,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188109&c=0","4936","Imola",9,"worldsuperbike",2018,2,TRUE,FALSE,FALSE,106.85
+"gp.php?l=0&d=81&r=20188110&c=0","4936","Imola",10,"worldsuperbike",2018,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188111&c=0","4023","Donington",11,"worldsuperbike",2018,2,TRUE,FALSE,FALSE,87.974
+"gp.php?l=0&d=81&r=20188112&c=0","4023","Donington",12,"worldsuperbike",2018,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188113&c=0","5403","Brno",13,"worldsuperbike",2018,2,TRUE,FALSE,FALSE,119.535
+"gp.php?l=0&d=81&r=20188114&c=0","5403","Brno",14,"worldsuperbike",2018,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188115&c=0","3610","Laguna Seca",15,"worldsuperbike",2018,2,TRUE,FALSE,FALSE,83.041
+"gp.php?l=0&d=81&r=20188116&c=0","3610","Laguna Seca",16,"worldsuperbike",2018,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188117&c=0","4226","Misano",17,"worldsuperbike",2018,2,TRUE,FALSE,FALSE,94.948
+"gp.php?l=0&d=81&r=20188118&c=0","4226","Misano",18,"worldsuperbike",2018,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188119&c=0","4592","Algarve",19,"worldsuperbike",2018,2,TRUE,FALSE,FALSE,102.304
+"gp.php?l=0&d=81&r=20188120&c=0","4592","Algarve",20,"worldsuperbike",2018,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188121&c=0","4411","Magny-Cours",21,"worldsuperbike",2018,2,TRUE,FALSE,FALSE,97.152
+"gp.php?l=0&d=81&r=20188122&c=0","4411","Magny-Cours",22,"worldsuperbike",2018,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188123&c=0","4276","San Juan Villicum",23,"worldsuperbike",2018,2,TRUE,FALSE,FALSE,99.175
+"gp.php?l=0&d=81&r=20188124&c=0","4276","San Juan Villicum",24,"worldsuperbike",2018,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188125&c=0","5380","Losail",25,"worldsuperbike",2018,2,TRUE,FALSE,FALSE,117.284
+"gp.php?l=0&d=81&r=20188126&c=0","5380","Losail",26,"worldsuperbike",2018,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188101&c=0","4445","Phillip Island",1,"worldsuperbike",2017,2,TRUE,FALSE,FALSE,90.971
+"gp.php?l=0&d=81&r=20188102&c=0","4445","Phillip Island",2,"worldsuperbike",2017,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188103&c=0","4554","Buriram",3,"worldsuperbike",2017,2,TRUE,FALSE,FALSE,93.714
+"gp.php?l=0&d=81&r=20188104&c=0","4554","Buriram",4,"worldsuperbike",2017,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188105&c=0","5077","Motorland",5,"worldsuperbike",2017,2,TRUE,FALSE,FALSE,110.663
+"gp.php?l=0&d=81&r=20188106&c=0","5077","Motorland",6,"worldsuperbike",2017,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188107&c=0","4542","Assen",7,"worldsuperbike",2017,2,TRUE,FALSE,FALSE,95.248
+"gp.php?l=0&d=81&r=20188108&c=0","4542","Assen",8,"worldsuperbike",2017,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188109&c=0","4936","Imola",9,"worldsuperbike",2017,2,TRUE,FALSE,FALSE,106.85
+"gp.php?l=0&d=81&r=20188110&c=0","4936","Imola",10,"worldsuperbike",2017,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188111&c=0","4023","Donington",11,"worldsuperbike",2017,2,TRUE,FALSE,FALSE,87.974
+"gp.php?l=0&d=81&r=20188112&c=0","4023","Donington",12,"worldsuperbike",2017,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188113&c=0","5403","Brno",13,"worldsuperbike",2017,2,TRUE,FALSE,FALSE,119.535
+"gp.php?l=0&d=81&r=20188114&c=0","5403","Brno",14,"worldsuperbike",2017,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188115&c=0","3610","Laguna Seca",15,"worldsuperbike",2017,2,TRUE,FALSE,FALSE,83.041
+"gp.php?l=0&d=81&r=20188116&c=0","3610","Laguna Seca",16,"worldsuperbike",2017,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188117&c=0","4226","Misano",17,"worldsuperbike",2017,2,TRUE,FALSE,FALSE,94.948
+"gp.php?l=0&d=81&r=20188118&c=0","4226","Misano",18,"worldsuperbike",2017,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188119&c=0","4592","Algarve",19,"worldsuperbike",2017,2,TRUE,FALSE,FALSE,102.304
+"gp.php?l=0&d=81&r=20188120&c=0","4592","Algarve",20,"worldsuperbike",2017,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188121&c=0","4411","Magny-Cours",21,"worldsuperbike",2017,2,TRUE,FALSE,FALSE,97.152
+"gp.php?l=0&d=81&r=20188122&c=0","4411","Magny-Cours",22,"worldsuperbike",2017,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20188123&c=0","4276","San Juan Villicum",23,"worldsuperbike",2017,2,TRUE,FALSE,FALSE,99.175
+"gp.php?l=0&d=81&r=20188124&c=0","4276","San Juan Villicum",24,"worldsuperbike",2017,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20168101&c=0","4445","Phillip Island",1,"worldsuperbike",2016,2,TRUE,FALSE,FALSE,91.445
+"gp.php?l=0&d=81&r=20168102&c=0","4445","Phillip Island",2,"worldsuperbike",2016,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20168103&c=0","4554","Buriram",3,"worldsuperbike",2016,2,TRUE,FALSE,FALSE,93.936
+"gp.php?l=0&d=81&r=20168104&c=0","4554","Buriram",4,"worldsuperbike",2016,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20168105&c=0","5077","Motorland",5,"worldsuperbike",2016,2,TRUE,FALSE,FALSE,110.421
+"gp.php?l=0&d=81&r=20168106&c=0","5077","Motorland",6,"worldsuperbike",2016,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20168107&c=0","4542","Assen",7,"worldsuperbike",2016,2,TRUE,FALSE,FALSE,96.486
+"gp.php?l=0&d=81&r=20168108&c=0","4542","Assen",8,"worldsuperbike",2016,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20168109&c=0","4936","Imola",9,"worldsuperbike",2016,2,TRUE,FALSE,FALSE,106.7
+"gp.php?l=0&d=81&r=20168110&c=0","4936","Imola",10,"worldsuperbike",2016,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20168111&c=0","5543","Sepang",11,"worldsuperbike",2016,2,TRUE,FALSE,FALSE,123.637
+"gp.php?l=0&d=81&r=20168112&c=0","5543","Sepang",12,"worldsuperbike",2016,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20168113&c=0","4023","Donington",13,"worldsuperbike",2016,2,TRUE,FALSE,FALSE,87.988
+"gp.php?l=0&d=81&r=20168114&c=0","4023","Donington",14,"worldsuperbike",2016,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20168115&c=0","4226","Misano",15,"worldsuperbike",2016,2,TRUE,FALSE,FALSE,95.507
+"gp.php?l=0&d=81&r=20168116&c=0","4226","Misano",16,"worldsuperbike",2016,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20168117&c=0","3610","Laguna Seca",17,"worldsuperbike",2016,2,TRUE,FALSE,FALSE,83.443
+"gp.php?l=0&d=81&r=20168118&c=0","3610","Laguna Seca",18,"worldsuperbike",2016,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20168119&c=0","4265","Lausitzring",19,"worldsuperbike",2016,2,TRUE,FALSE,FALSE,97.357
+"gp.php?l=0&d=81&r=20168120&c=0","4265","Lausitzring",20,"worldsuperbike",2016,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20168121&c=0","4411","Magny-Cours",21,"worldsuperbike",2016,2,TRUE,FALSE,FALSE,100.491
+"gp.php?l=0&d=81&r=20168122&c=0","4411","Magny-Cours",22,"worldsuperbike",2016,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20168123&c=0","4423","Jerez",23,"worldsuperbike",2016,2,TRUE,FALSE,FALSE,101.467
+"gp.php?l=0&d=81&r=20168124&c=0","4423","Jerez",24,"worldsuperbike",2016,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20168125&c=0","5380","Losail",25,"worldsuperbike",2016,2,TRUE,FALSE,FALSE,117.371
+"gp.php?l=0&d=81&r=20168126&c=0","5380","Losail",26,"worldsuperbike",2016,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20158101&c=0","4445","Phillip Island",1,"worldsuperbike",2015,2,TRUE,FALSE,FALSE,91.826
+"gp.php?l=0&d=81&r=20158102&c=0","4445","Phillip Island",2,"worldsuperbike",2015,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20158103&c=0","4554","Buriram",3,"worldsuperbike",2015,2,TRUE,FALSE,FALSE,93.969
+"gp.php?l=0&d=81&r=20158104&c=0","4554","Buriram",4,"worldsuperbike",2015,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20158105&c=0","5077","Motorland",5,"worldsuperbike",2015,2,TRUE,FALSE,FALSE,110.89
+"gp.php?l=0&d=81&r=20158106&c=0","5077","Motorland",6,"worldsuperbike",2015,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20158107&c=0","4542","Assen",7,"worldsuperbike",2015,2,TRUE,FALSE,FALSE,95.889
+"gp.php?l=0&d=81&r=20158108&c=0","4542","Assen",8,"worldsuperbike",2015,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20158109&c=0","4936","Imola",9,"worldsuperbike",2015,2,TRUE,FALSE,FALSE,106.707
+"gp.php?l=0&d=81&r=20158110&c=0","4936","Imola",10,"worldsuperbike",2015,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20158111&c=0","4023","Donington",11,"worldsuperbike",2015,2,TRUE,FALSE,FALSE,87.914
+"gp.php?l=0&d=81&r=20158112&c=0","4023","Donington",12,"worldsuperbike",2015,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20158113&c=0","4592","Algarve",13,"worldsuperbike",2015,2,TRUE,FALSE,FALSE,102.637
+"gp.php?l=0&d=81&r=20158114&c=0","4592","Algarve",14,"worldsuperbike",2015,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20158115&c=0","4226","Misano",15,"worldsuperbike",2015,2,TRUE,FALSE,FALSE,94.855
+"gp.php?l=0&d=81&r=20158116&c=0","4226","Misano",16,"worldsuperbike",2015,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20158117&c=0","3610","Laguna Seca",17,"worldsuperbike",2015,2,TRUE,FALSE,FALSE,83.739
+"gp.php?l=0&d=81&r=20158118&c=0","3610","Laguna Seca",18,"worldsuperbike",2015,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20158119&c=0","5543","Sepang",19,"worldsuperbike",2015,2,TRUE,FALSE,FALSE,123.654
+"gp.php?l=0&d=81&r=20158120&c=0","5543","Sepang",20,"worldsuperbike",2015,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20158121&c=0","4423","Jerez",21,"worldsuperbike",2015,2,TRUE,FALSE,FALSE,101.136
+"gp.php?l=0&d=81&r=20158122&c=0","4423","Jerez",22,"worldsuperbike",2015,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20158123&c=0","4411","Magny-Cours",23,"worldsuperbike",2015,2,TRUE,FALSE,FALSE,113.247
+"gp.php?l=0&d=81&r=20158124&c=0","4411","Magny-Cours",24,"worldsuperbike",2015,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=81&r=20158125&c=0","5380","Losail",25,"worldsuperbike",2015,2,TRUE,FALSE,FALSE,117.317
+"gp.php?l=0&d=81&r=20158126&c=0","5380","Losail",26,"worldsuperbike",2015,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20182001&c=0","5412","Bahrain",1,"f2",2018,1,TRUE,FALSE,FALSE,108.072
+"gp.php?l=0&d=25&r=20182002&c=0","5412","Bahrain",2,"f2",2018,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20182003&c=0","6003","Baku",3,"f2",2018,1,TRUE,FALSE,FALSE,116.385
+"gp.php?l=0&d=25&r=20182004&c=0","6003","Baku",4,"f2",2018,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20182005&c=0","4655","Catalunya",5,"f2",2018,1,TRUE,FALSE,FALSE,90.039
+"gp.php?l=0&d=25&r=20182006&c=0","4655","Catalunya",6,"f2",2018,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20182007&c=0","3337","Monte Carlo",7,"f2",2018,2,TRUE,FALSE,FALSE,82.472
+"gp.php?l=0&d=25&r=20182008&c=0","3337","Monte Carlo",8,"f2",2018,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20182009&c=0","5842","Paul Ricard",9,"f2",2018,1,TRUE,FALSE,FALSE,107.085
+"gp.php?l=0&d=25&r=20182010&c=0","5842","Paul Ricard",10,"f2",2018,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20182011&c=0","4318","Red Bull Ring",11,"f2",2018,1,TRUE,FALSE,FALSE,77.062
+"gp.php?l=0&d=25&r=20182012&c=0","4318","Red Bull Ring",12,"f2",2018,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20182013&c=0","5891","Silverstone",13,"f2",2018,1,TRUE,FALSE,FALSE,104.448
+"gp.php?l=0&d=25&r=20182014&c=0","5891","Silverstone",14,"f2",2018,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20182015&c=0","4381","Hungaroring",15,"f2",2018,1,TRUE,FALSE,FALSE,92.473
+"gp.php?l=0&d=25&r=20182016&c=0","4381","Hungaroring",16,"f2",2018,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20182017&c=0","7004","Spa-Francorchamps",17,"f2",2018,1,TRUE,FALSE,FALSE,120.632
+"gp.php?l=0&d=25&r=20182018&c=0","7004","Spa-Francorchamps",18,"f2",2018,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20182019&c=0","5793","Monza",19,"f2",2018,1,TRUE,FALSE,FALSE,95.296
+"gp.php?l=0&d=25&r=20182020&c=0","5793","Monza",20,"f2",2018,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20182021&c=0","5848","Sochi",21,"f2",2018,1,TRUE,FALSE,FALSE,111.929
+"gp.php?l=0&d=25&r=20182022&c=0","5848","Sochi",22,"f2",2018,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20182023&c=0","5554","Yas Marina",23,"f2",2018,1,TRUE,FALSE,FALSE,113.194
+"gp.php?l=0&d=25&r=20182024&c=0","5554","Yas Marina",24,"f2",2018,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20172001&c=0","5412","Bahrain",1,"f2",2017,1,TRUE,FALSE,FALSE,105.843
+"gp.php?l=0&d=25&r=20172002&c=0","5412","Bahrain",2,"f2",2017,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20172003&c=0","4655","Catalunya",3,"f2",2017,1,TRUE,FALSE,FALSE,94.294
+"gp.php?l=0&d=25&r=20172004&c=0","4655","Catalunya",4,"f2",2017,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20172005&c=0","3337","Monte Carlo",5,"f2",2017,2,TRUE,FALSE,FALSE,81.403
+"gp.php?l=0&d=25&r=20172006&c=0","3337","Monte Carlo",6,"f2",2017,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20172007&c=0","6003","Baku",7,"f2",2017,1,TRUE,FALSE,FALSE,114.025
+"gp.php?l=0&d=25&r=20172008&c=0","6003","Baku",8,"f2",2017,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20172009&c=0","4318","Red Bull Ring",9,"f2",2017,1,TRUE,FALSE,FALSE,75.854
+"gp.php?l=0&d=25&r=20172010&c=0","4318","Red Bull Ring",10,"f2",2017,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20172011&c=0","5891","Silverstone",11,"f2",2017,1,TRUE,FALSE,FALSE,102.512
+"gp.php?l=0&d=25&r=20172012&c=0","5891","Silverstone",12,"f2",2017,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20172013&c=0","4381","Hungaroring",13,"f2",2017,1,TRUE,FALSE,FALSE,90.153
+"gp.php?l=0&d=25&r=20172014&c=0","4381","Hungaroring",14,"f2",2017,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20172015&c=0","7004","Spa-Francorchamps",15,"f2",2017,1,TRUE,FALSE,FALSE,120.204
+"gp.php?l=0&d=25&r=20172016&c=0","7004","Spa-Francorchamps",16,"f2",2017,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20172017&c=0","5793","Monza",17,"f2",2017,1,TRUE,FALSE,FALSE,107.648
+"gp.php?l=0&d=25&r=20172018&c=0","5793","Monza",18,"f2",2017,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20172019&c=0","4428","Jerez",19,"f2",2017,1,TRUE,FALSE,FALSE,89.906
+"gp.php?l=0&d=25&r=20172020&c=0","4428","Jerez",20,"f2",2017,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=25&r=20172021&c=0","5554","Yas Marina",21,"f2",2017,1,TRUE,FALSE,FALSE,110.314
+"gp.php?l=0&d=25&r=20172022&c=0","5554","Yas Marina",22,"f2",2017,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20162001&c=0","4655","Catalunya",1,"gp2",2016,1,TRUE,FALSE,FALSE,94.05
+"gp.php?l=0&d=205&r=20162002&c=0","4655","Catalunya",2,"gp2",2016,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20162003&c=0","3337","Monte Carlo",3,"gp2",2016,2,TRUE,FALSE,FALSE,80.469
+"gp.php?l=0&d=205&r=20162004&c=0","3337","Monte Carlo",4,"gp2",2016,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20162005&c=0","6003","Baku",5,"gp2",2016,1,TRUE,FALSE,FALSE,116.086
+"gp.php?l=0&d=205&r=20162006&c=0","6003","Baku",6,"gp2",2016,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20162007&c=0","4326","Red Bull Ring",7,"gp2",2016,1,TRUE,FALSE,FALSE,75.534
+"gp.php?l=0&d=205&r=20162008&c=0","4326","Red Bull Ring",8,"gp2",2016,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20162009&c=0","5891","Silverstone",9,"gp2",2016,1,TRUE,FALSE,FALSE,103.172
+"gp.php?l=0&d=205&r=20162010&c=0","5891","Silverstone",10,"gp2",2016,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20162011&c=0","4381","Hungaroring",11,"gp2",2016,1,TRUE,FALSE,FALSE,89.627
+"gp.php?l=0&d=205&r=20162012&c=0","4381","Hungaroring",12,"gp2",2016,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20162013&c=0","4574","Hockenheim",13,"gp2",2016,1,TRUE,FALSE,FALSE,85.209
+"gp.php?l=0&d=205&r=20162014&c=0","4574","Hockenheim",14,"gp2",2016,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20162015&c=0","7004","Spa-Francorchamps",15,"gp2",2016,1,TRUE,FALSE,FALSE,120.976
+"gp.php?l=0&d=205&r=20162016&c=0","7004","Spa-Francorchamps",16,"gp2",2016,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20162017&c=0","5793","Monza",17,"gp2",2016,1,TRUE,FALSE,FALSE,93.98
+"gp.php?l=0&d=205&r=20162018&c=0","5793","Monza",18,"gp2",2016,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20162019&c=0","5543","Sepang",19,"gp2",2016,1,TRUE,FALSE,FALSE,105.417
+"gp.php?l=0&d=205&r=20162020&c=0","5543","Sepang",20,"gp2",2016,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20162021&c=0","5554","Yas Marina",21,"gp2",2016,1,TRUE,FALSE,FALSE,111.175
+"gp.php?l=0&d=205&r=20162022&c=0","5554","Yas Marina",22,"gp2",2016,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20152001&c=0","5412","Bahrain",1,"gp2",2015,1,TRUE,FALSE,FALSE,104.617
+"gp.php?l=0&d=205&r=20152002&c=0","5412","Bahrain",2,"gp2",2015,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20152003&c=0","4655","Catalunya",3,"gp2",2015,1,TRUE,FALSE,FALSE,94.748
+"gp.php?l=0&d=205&r=20152004&c=0","4655","Catalunya",4,"gp2",2015,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20152005&c=0","3337","Monte Carlo",5,"gp2",2015,2,TRUE,FALSE,FALSE,82.314
+"gp.php?l=0&d=205&r=20152006&c=0","3337","Monte Carlo",6,"gp2",2015,2,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20152007&c=0","4326","Red Bull Ring",7,"gp2",2015,1,TRUE,FALSE,FALSE,75.757
+"gp.php?l=0&d=205&r=20152008&c=0","4326","Red Bull Ring",8,"gp2",2015,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20152009&c=0","5891","Silverstone",9,"gp2",2015,1,TRUE,FALSE,FALSE,102.734
+"gp.php?l=0&d=205&r=20152010&c=0","5891","Silverstone",10,"gp2",2015,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20152011&c=0","4381","Hungaroring",11,"gp2",2015,1,TRUE,FALSE,FALSE,92.335
+"gp.php?l=0&d=205&r=20152012&c=0","4381","Hungaroring",12,"gp2",2015,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20152013&c=0","7004","Spa-Francorchamps",13,"gp2",2015,1,TRUE,FALSE,FALSE,120.177
+"gp.php?l=0&d=205&r=20152014&c=0","7004","Spa-Francorchamps",14,"gp2",2015,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20152015&c=0","5793","Monza",15,"gp2",2015,1,TRUE,FALSE,FALSE,93.723
+"gp.php?l=0&d=205&r=20152016&c=0","5793","Monza",16,"gp2",2015,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20152017&c=0","5848","Sochi",17,"gp2",2015,1,TRUE,FALSE,FALSE,107.195
+"gp.php?l=0&d=205&r=20152018&c=0","5848","Sochi",18,"gp2",2015,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20152019&c=0","5412","Bahrain",19,"gp2",2015,1,TRUE,FALSE,FALSE,103.166
+"gp.php?l=0&d=205&r=20152020&c=0","5412","Bahrain",20,"gp2",2015,1,FALSE,FALSE,FALSE,NA
+"gp.php?l=0&d=205&r=20152021&c=0","5554","Yas Marina",21,"gp2",2015,1,TRUE,FALSE,FALSE,111.866
+"gp.php?l=0&d=205&r=20152022&c=0","5554","Yas Marina",22,"gp2",2015,1,FALSE,FALSE,FALSE,NA
