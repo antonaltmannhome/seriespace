@@ -7,7 +7,7 @@ multiSeriesResultDF$driver = gsub('~', '-', multiSeriesResultDF$driver)
 multiSeriesResultDF$driver = gsub('\\.', '', multiSeriesResultDF$driver)
 multiSeriesResultDF$dtss = with(multiSeriesResultDF, paste(driver, vehicle, series, season, sep = '~'))
 multiSeriesResultDF$circuit = with(multiSeriesResultDF, gsub('[^a-z]', ' ', tolower(circuit)))
-
+#
 f1ResultDF = read.csv(paste0(USERPATH, 'f1result1718.csv'), as.is = TRUE) %>%
 				rename(season = year,
 						qualSec = sec) %>%
