@@ -1,5 +1,5 @@
 
-USERPATH = 'c:/research/miscracing/seriespacecomparison/'
+USERPATH = 'c:/git/seriespace/'
 source(paste0(USERPATH, 'startup.r'))
 
 multiSeriesResultDF = read.csv(paste0(USERPATH, 'result.csv'), as.is = TRUE)

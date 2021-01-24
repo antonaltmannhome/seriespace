@@ -1,0 +1,21 @@
+### what the job of producing the overall driver ranking would involve:
+
+### stripping out the team names from forix
+### cleaning up team names to make them consistent between years
+### fetching data from other series on the junior ladder
+### filling in the gaps in terms of number of races for formulae that we don't have data for e.g. japanese f4
+
+## none of that actually seems to be too bad TBH
+
+### what about the model
+## could make a start with simulated data?
+## inputs would be: driver latent ability
+## team latent ability
+## a curve representing benefit of driving that car
+## a curve representing benefit of driving any car
+## then you simulate a lap time
+## and throw some outliers in
+## then simulate the race result messily from that plus the starting position
+## so our model would ideally get better as we include the lap times from qualifying plus the finishing positions
+## but we want the model to give more credit if you do well against a strong field eg f2 than a weak field eg f4
+## that all sounds very hard

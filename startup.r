@@ -11,7 +11,7 @@ options(dplyr.print_max = 1e9, dplyr.width=Inf)
 
 AHKPATH = 'c:/research/utils/autohotkeys/'
 source(paste0(AHKPATH, 'ahkfunct.r'))
-USERPATH = 'c:/research/miscracing/seriespacecomparison/'
+USERPATH = 'c:/git/seriespace/'
 HTMLPATH = 'd:/miscracingdata/html/seriespacecomparison/'
 thiscomputer = Sys.info()[['nodename']]
 TEMPPATH='c:/temp/'
